@@ -168,5 +168,6 @@ Los cambios aparecerán en tu sitio en 1-5 minutos.
 Este portfolio es de uso libre. Personalízalo y hazlo tuyo.
 
 ---
+   ## Portfolio en línea
 
-**¿Necesitas ayuda?** Abre un issue en el repositorio o contacta conmigo.
+
